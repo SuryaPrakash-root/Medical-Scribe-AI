@@ -39,3 +39,4 @@ Core intelligence engine for converting patient-doctor conversations into struct
 - `services.py`: Business logic and Mistral AI interaction.
 - `schemas.py`: Data models.
 - `static/`: Frontend files (HTML, CSS, JS).
+# Medical-Scribe-AI
